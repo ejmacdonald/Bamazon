@@ -18,18 +18,14 @@ Here's a video of the Customer interface:
 **Bamazon Manager** -- provides a menu whereby a manager can:
 *  View all products for sale
 *  View low inventory
-	# NOTE: I ennhanced this feature to allow the manager to 
-			select the amount of inventory that they will get a report on
+	**NOTE:** I ennhanced this feature to allow the manager to select the amount of inventory that they will get a report on
 *  Add additional inventory to an existing product
 *  Add a new product to the store
-	# NOTE: Instead of allowing the Manager to input a Department name, I give
-			them a choice of existing departments, which I get from the departments DB
+	 **NOTE:** Instead of allowing the Manager to input a Department name, I give them a choice of existing departments, which I get from the departments DB
 			
 Here's a video of the Manager interface:
 
 [![Bamazon Customer Interface](http://img.youtube.com/vi/VDk9Vs-nm6E/0.jpg)](http://www.youtube.com/watch?v=VDk9Vs-nm6E)
-
-
 
 
 **Bamazon Supervisor** -- Allows new departments to be created and reports run on the profitability of different departments
